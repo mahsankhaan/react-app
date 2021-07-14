@@ -1,0 +1,4 @@
+applications:
+    - name: myareactk
+      path: .
+      buildpack: staticfile_buildpack
